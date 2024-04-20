@@ -6,7 +6,14 @@ Este sistema permite a los usuarios gestionar la atención de pacientes en un ho
 
   Para poder ultilizar este programa es necesario tener una cuenta de repl.it.
   Una vez dentro de la página, selecciona "New Repl" e importa desde gitHub el programa.
-  
+
+  Link del repositorio:
+  ````
+  https://github.com/Pantuu/Tarea-1.git
+  ````
+  Repl.it clonará el repositorio.
+
+  Ejecuta el programa.
 
 
 ## Cómo Funciona:
