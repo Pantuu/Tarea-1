@@ -237,7 +237,6 @@ void mostrar_xprioridad(List *pacientes)
   if (paciente == NULL)
   {
     printf("No hay pacientes en la lista.\n");
-    return;
   }
 
 
